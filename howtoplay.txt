@@ -1,0 +1,20 @@
+------------------HOW TO PLAY------------------
+
+Hello...
+There are few Question of general knowledge (most
+ly Computer Students Question) exited in the game
+hope you like this....
+
+*points you have to know---
+
+1. Number of question = 10.
+2. Each Question Carry 1 points.
+3. If you gave wrong answer to the Question the 
+   correct answer will be print when you submit 
+   the answer.
+4. No negetive marks for the wrong answer. 
+5. Play this i telling you..you won't regret.
+6. Enjoy.
+      
+                                   thank you.
+                                   Paresh();  
