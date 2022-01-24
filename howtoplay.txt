@@ -5,16 +5,19 @@ There are few Question of general knowledge (most
 ly Computer Students Question) exited in the game
 hope you like this....
 
-*points you have to know---
+*Things you have to know---
 
-1. Number of question = 10.
+1. Number of question = 20.
 2. Each Question Carry 1 points.
 3. If you gave wrong answer to the Question the 
    correct answer will be print when you submit 
    the answer.
 4. No negetive marks for the wrong answer. 
 5. Play this i telling you..you won't regret.
-6. Enjoy.
+6. Such things in the game is under devlopment
+   i upload those things when ever the bug gets
+   debuged.
+7. Enjoy the game.
       
                                    thank you.
                                    Paresh();  
